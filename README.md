@@ -1,0 +1,2 @@
+# PearlCannonHelper
+MCDR插件，可以计算珍珠在珍珠炮环境的tnt作用下每一t的位置
